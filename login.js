@@ -6,7 +6,7 @@ function required() {
     if(user =="" || pass =="") {
     return false;
   }
-  document.form1.post;
+  document.form1.submit;
   return true;
 
 }
